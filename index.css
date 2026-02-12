@@ -1,0 +1,118 @@
+body{
+    background: radial-gradient(skyblue,lightgrey);
+    text-align: center;
+    margin: 0px;
+    font-family: "Federant", serif;
+}
+
+header{
+    position:  absolute;
+    left: 40%;
+    top: 10px;
+    font-size: larger;
+    margin: 0px;
+    
+}
+
+#grb{
+
+    height: 100px;
+    width: 100px;
+    margin: 0px 0px 5px 0px;
+}
+
+h1,h3{
+
+    margin: 5px;
+}
+
+.activities{
+
+    height: 100px;
+    margin-top: 20px;
+    font-size: larger;
+}
+
+.info-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.sarc{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+     }
+   
+
+.catacombs{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+.museum{
+    display: flex;
+    flex-direction: column;
+    width: 300px;     
+}
+
+.pic-1{
+    width: 150px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.pic-2{
+    width: 150px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.pic-3{
+    width: 150px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.wrapper-2 { 
+    height: 700px;
+    
+   
+
+}
+
+.about-me{
+    background:#66A3FF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 100px auto 100px auto;
+    padding: 100px 0px 50px 0px;
+    height: 300px;
+    width: 600px;
+    border: 3px solid lightblue;
+    border-radius: 20px;
+    border-bottom: 50px solid #CCE0FF;
+
+}
+
+#cv{
+    height: 250px;
+    width: 250px;
+    border: 2px solid lightblue;
+    border-radius: 20%;
+}
+
+.description{
+
+    width: 250px;
+
+}
