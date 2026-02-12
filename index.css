@@ -16,6 +16,11 @@ header{
     
 }
 
+.hero{
+    width: 600px;
+    margin: 0px;
+}
+
 #grb{
 
     height: 100px;
@@ -119,4 +124,5 @@ h1,h3{
 
 
 }
+
 
